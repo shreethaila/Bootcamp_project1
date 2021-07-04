@@ -1,0 +1,9 @@
+Enter the string : python and network security bootcamp
+The hexadecimal equivalent of SHA256 is : 
+8fbcb125ec952a949bd18a9d3b054e9b9161b4f306f75fdd4e49d38f288715ff
+
+The hexadecimal equivalent of SHA384 is : 
+b5016e70e1ecb24d71065dcb1ff6d96b33da08b2a38a8efbbe42e63da22ce3fcffcc786448a7664881f7b8594683a952
+
+The hexadecimal equivalent of SHA1 is : 
+e8f91bf683fcac72092ce3a08aa7fd36617ef699

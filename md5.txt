@@ -1,0 +1,2 @@
+Enter the string : shapeai
+The hexadecimal equivalent of md5 hash is : d0b029c73a414be8f2f78cb59e69af78

@@ -1,0 +1,4 @@
+Enter the string : hashlib
+The hexadecimal equivalent of hash with salt is : 7847d54cb4b784a4c30263a692ff1c5788b26b940a84c5b823879a819c7c7d749c9774b041e6f47e0a389eaa218f24441c2e4f633846379d4f3448fae000f6ee
+
+The hexadecimal equivalent of salted hash after 100 iteration is : 1d95692fdd5d8262d3d151fa956023f40784ee5f8ca0861a6c4c82eb99ae5eb5a09ebc02e7ddc8fdbe8d5739717919a92ef3adcc4c0c3d0deecd2c608661a416
